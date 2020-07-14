@@ -11,7 +11,7 @@ public class Dugujiujian {
         System.out.println("dugujiujian9999999999999999");
         System.out.println("dugujiujian9999999999999999");
 
-        //红色 未追踪代码 绿色 暂存区
+        //红色 未追踪代码 绿色 暂存区 黑色 已提交本地库 蓝色 已提交本地库又发生了改变且未提交
 
     }
 }
